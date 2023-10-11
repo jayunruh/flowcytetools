@@ -8,3 +8,8 @@ compensateflowcyte: codes to compensate and read .fcs files.  getFileAsDF2(fpath
 gateflowcyte2: codes to gate flow cytometry data (omitting the napari functions).
 
 Dependencies are numpy, pandas, matplotlib, and numba
+
+To install run
+```bash
+pip install git+https://github.com/jayunruh/flowcytetools
+```

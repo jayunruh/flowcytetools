@@ -12,7 +12,7 @@ def read(fname):
 
 setup(
     name='napari_jflowcyte',
-    version='0.0.1',
+    version='0.0.2',
     author='Jay Unruh',
     description='Plugins to read, write, gate, and compensate flow cytometry (fcs) files.',
     url='https://github.com/jayunruh/flowcytetools',
