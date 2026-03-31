@@ -11,7 +11,7 @@ def read(fname):
     return codecs.open(file_path, encoding="utf-8").read()
 
 setup(
-    name='napari_jflowcyte',
+    name='flowcytetools',
     version='0.0.2',
     author='Jay Unruh',
     description='Plugins to read, write, gate, and compensate flow cytometry (fcs) files.',
